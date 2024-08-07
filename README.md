@@ -1,3 +1,22 @@
+# Final output
+![change-bg-color-react](https://github.com/user-attachments/assets/a07a331d-7386-4ff2-bd75-1c971e42558b)
+
+Here is a simulated screenshot of the output for the React app that changes the background color when specific buttons are clicked.
+
+The app has a title "Change Background Color".
+Below the title, there are buttons for each color: Red, Green, Blue, Yellow, Purple, and Orange.
+Clicking any of these buttons will change the background color of the app to the respective color.
+
+**File Structure:** Organized into App.js, ColorButtons.js, and respective CSS files.
+**App.js:** Manages the background color state and renders the ColorButtons component.
+**ColorButtons.js:** Renders buttons for each color and triggers the color change on click.
+**CSS:** Includes responsive styles for the buttons, ensuring a good user experience across different screen sizes.
+
+# npx create-react-app changebg-color
+cd changebg-color
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
